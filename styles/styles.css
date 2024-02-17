@@ -27,6 +27,7 @@ header{
 #header-text1{
     font-size: 42px;
     font-weight: 400;
+    margin-bottom: 16px;
 }
 
 .pg1{
@@ -37,6 +38,7 @@ header{
     font-size: 88px;
     font-weight: 500;
     color: red;
+    margin-bottom: 48px;
 }
 
 .pg1-txt2{
@@ -52,10 +54,10 @@ header{
     font-weight: 700;
 }
 
-/* Page 2 desogn */
+/* Page 2 design */
 .pg2{
     background-image: url(/resources/Vectorrr.png);
-    margin: 0 auto 0;
+    margin: 120px auto;
     width: 1320px;
     height: 600px; 
 
@@ -65,7 +67,7 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 .pg2-txt1{
@@ -88,6 +90,7 @@ header{
     border-radius: 8px;
     font-size: 20px;
     border: none;
+    cursor: pointer;
 }
 /* Page 3 design */
 .pg3{
@@ -104,6 +107,39 @@ header{
 
 .pg3-intro{ 
     color: red;
+}
+/* page 4 design */
+.pg4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1320px;
+    margin: 120px auto;
+}
+.pg4-txt1{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.pg4-txt2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+.pg4-txt3{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+.pg4-txt4{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.pg4-img{
+    border: 10px solid red;
+    border-radius: 50%;
+    padding: 30px;
 }
 
 /* Page 5 design */

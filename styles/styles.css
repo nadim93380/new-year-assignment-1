@@ -5,7 +5,7 @@ header{
 }
 .front{
     
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00)), url(./resources/Bannerimage.png);
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00)), url(/resources/Bannerimage.png);
     background-size: cover;
     background-position: center;
     border-radius: 16px;
@@ -55,7 +55,7 @@ header{
 
 /* Page 2 design */
 .pg2{
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00)), url(/resources/Vectorrr.png);
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00)), url(../resources/Vectorrr.png);
     margin: 120px auto;
     width: 1320px;
     height: 600px; 

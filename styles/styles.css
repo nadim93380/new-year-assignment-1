@@ -6,8 +6,6 @@ header{
 .front{
     
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00)), url(../resources/Bannerimage.png);
-    /* background-size: cover;
-    background-position: center; */
     border-radius: 16px;
     width: 1320px;
     height: 600px;

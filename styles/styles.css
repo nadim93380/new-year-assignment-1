@@ -3,10 +3,9 @@ header{
     display: flex;
     justify-content: center;
 }
-
 .front{
     
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../resources/Banner\ image.png");
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../resources/Bannerimage.png");
     background-size: cover;
     background-position: center;
     border-radius: 16px;

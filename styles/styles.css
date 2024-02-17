@@ -105,3 +105,80 @@ header{
 .pg3-intro{ 
     color: red;
 }
+
+/* Page 5 design */
+.pg5{
+    width: 1320px;
+    margin: auto;
+}
+
+.pg5-txt1{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.pg5-txt2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 15px 0;
+}
+.pg5-txt3{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+.pg5-img{
+    border-radius: 15px;
+    margin: 2px;
+}
+
+.pg5-img:hover{
+    box-shadow: 5px 5px 8px gray;
+}
+/* Page 6 design */
+
+.pg6{
+    width: 1320px;
+    height: 616px;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 15px;
+    margin: 35px auto;
+}
+.pg6-content{
+    text-align: center;
+    padding-top: 55px;
+}
+.pg6-txt1{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+.pg6-txt2{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+.pg6-input{
+    height: 72px;
+    width: 438px;
+    border: none;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.pg6-btn{
+    display: flex;
+    justify-content: center;
+}
+.pg6-sub{
+    background-color: red;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    width: 210px;
+    color: white;
+    border: none;
+
+}
